@@ -1,27 +1,22 @@
 Nice to meet you, B Dharani! 🎉 Since this is your first GitHub profile, let’s make your README stand out with a clear intro, your interests, and a touch of personality. Based on what I know about your strengths in engineering and programming, here's a customized draft:
-# Hi there 👋 I'm B Dharani
+# 👋 Hi, I'm Dharani!
+I'm a passionate coder with a love for solving problems and building cool things.
 
-🎓 I'm an engineering enthusiast diving deep into mechanical systems, thermal engineering, and material science.  
-💡 Passionate about exploring practical applications of technology through power transmission systems, boiler mechanisms, and modern manufacturing processes like sand casting, forging, and 3D printing.  
-🧠 Currently expanding my skills in programming with C—loops, recursion, arrays—you name it!  
-🖥️ Beginning to explore computer graphics and display technologies including OLED and GPU architecture.
+## 🛠️ Skills & Tools
+- Languages: Python, Java, C++
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, MongoDB
+- Tools: Git, VS Code, Postman
 
-## 🔧 What I'm working on
-- Understanding thermodynamic laws and boiler constructions  
-- Comparing mechanical, electrical, and hydraulic power transmission methods  
-- Writing programs in C with a focus on structure, logic, and performance  
-- Exploring the role of GNU in software development and learning how open-source shapes our digital world
+## 🌱 Currently Learning
+- React.js and modern web development
 
-## 📚 Tech Interests
-- Thermal systems and energy efficiency  
-- Engineering design principles  
-- Programming logic and structured problem solving  
-- Visual computing and 3D transformations
+## 📈 My GitHub Stats
+![Dharani's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
-## 📫 How to reach me
-Feel free to connect or share ideas—collaboration fuels innovation!
-
----
+## 🤝 Let's Connect!
+- LinkedIn: [Your LinkedIn URL]
+- Twitter: [Your Twitter URL]
 
 ⭐ Fun Fact: I thrive on structured learning and believe that clarity is power when understanding complex systems.
 
